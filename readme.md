@@ -49,3 +49,13 @@ objects
 ### 修改最新commit的message信息
 git commit --amend
 
+
+## 上传本地仓库到远端
+git remote add github git@github.com:ruanshutian/gitTest.git
+git push github --all
+git remote add xxx git@github.com:ruanshutian/gitTest.git
+git push xxx --all
+
+
+
+
